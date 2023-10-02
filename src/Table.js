@@ -7,6 +7,7 @@ function TableHeader() {
           <th>Name</th>
           <th>Job</th>
         </tr>
+        
       </thead>
     );
   }
